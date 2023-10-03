@@ -1,2 +1,2 @@
 # Piano
-A small piano using java.
+A piano using java language. 
